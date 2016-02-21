@@ -1,0 +1,17 @@
+.nav {
+    float: right;
+}
+#main {
+    text-align: center;
+}
+.jumbotron {
+    background-image: url("peppa-pig.jpg");
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+#undermain{
+    text-align: center;
+}
+#about{
+    text-align: center;
+}
